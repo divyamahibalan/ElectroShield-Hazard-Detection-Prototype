@@ -35,7 +35,11 @@ Flowcharts + Architecture diagrams
 <img width="1756" height="794" alt="image" src="https://github.com/user-attachments/assets/8ba4b340-22f9-421e-846e-505a8792f296" />
 
 #📽️ Demo Video
-https://1drv.ms/f/c/39A353242C9249FA/EjIR9X-xxJBGn-TKXrjrJGkBQZJt8swMT9zOl0y7BP7S4g?e=uHyya2
+>>User Module Demo – Dashboard, Predictions & Past Alerts
+https://github.com/user-attachments/assets/ee29b669-88f1-48ea-bf59-0ab0d9ced0b5
+
+>>Admin Panel Demo – Map View & Hazard Zones
+
 
 #🖼️ Screenshots
 --Dashboard home
