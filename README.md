@@ -115,4 +115,5 @@ The repository currently contains the UI demo, architecture, documentation, and 
 Full implementation is under reconstruction.
 
 🙌 Author
-Built by your DivyaMahibalan as part of an early-stage IoT + ML exploration project.
+
+Built by DivyaMahibalan as part of an early-stage IoT + ML exploration project.
