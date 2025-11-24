@@ -40,7 +40,7 @@ Flowcharts + Architecture diagrams
 https://github.com/user-attachments/assets/ee29b669-88f1-48ea-bf59-0ab0d9ced0b5
 
 >>Admin Panel Demo – Map View & Hazard Zones
-
+https://github.com/user-attachments/assets/75391ed5-67cf-449b-9206-988d1960a4be
 
 #🖼️ Screenshots
 --Dashboard home
