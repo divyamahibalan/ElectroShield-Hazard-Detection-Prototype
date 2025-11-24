@@ -35,6 +35,7 @@ Flowcharts + Architecture diagrams
 <img width="1756" height="794" alt="image" src="https://github.com/user-attachments/assets/8ba4b340-22f9-421e-846e-505a8792f296" />
 
 #📽️ Demo Video
+
 >>User Module Demo – Dashboard, Predictions & Past Alerts
 https://github.com/user-attachments/assets/ee29b669-88f1-48ea-bf59-0ab0d9ced0b5
 
@@ -44,10 +45,13 @@ https://github.com/user-attachments/assets/ee29b669-88f1-48ea-bf59-0ab0d9ced0b5
 #🖼️ Screenshots
 --Dashboard home
 <img width="1837" height="976" alt="Screenshot 2025-11-24 210914" src="https://github.com/user-attachments/assets/641b9787-0529-4be6-8f53-2a1205270deb" />
+
 --Past Alerts
 <img width="981" height="832" alt="Screenshot 2025-11-24 211122" src="https://github.com/user-attachments/assets/c7061315-e112-44cc-abc2-a275b92ad01f" />
+
 --Hazard zone indicator
 <img width="1825" height="1017" alt="Screenshot 2025-11-24 211050" src="https://github.com/user-attachments/assets/6518ef32-4093-4b41-9f97-1874d43577ca" />
+
 --Admin mock UI
 <img width="1820" height="1028" alt="Screenshot 2025-11-24 211226" src="https://github.com/user-attachments/assets/7db08365-e8f3-4ca6-be07-dda89450f748" />
 
