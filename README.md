@@ -36,17 +36,6 @@ Features
 -Hazard history and logging
 -Visual hazard indicators (map, charts, icons)
 
-Installation
-
-The full Python implementation is being rebuilt.
-This section will be updated with setup instructions soon.
-Current repo includes:
->Model explanation
->Architecture diagrams
->UI demo (HTML/CSS/JS prototype)
->Screenshots
->Documentation
-
 Tech Stack
 
 *Python: pandas, scikit-learn
