@@ -1,18 +1,24 @@
-ElectroShield – Electrical Hazard Detection Prototype (Python + ML)
+ElectroShield – Electrical Hazard Detection Prototype
 
 Project Overview
 
-ElectroShield is a Python-based prototype that simulates electrical hazard detection using machine learning on simulated sensor data. The system predicts hazard-prone areas and provides visual insights through user and admin dashboards, offering a conceptual solution for safer electrical environments.
+ElectroShield is a Python-based prototype designed to simulate electrical hazard detection using machine learning on synthetic sensor data. The system aims to predict hazard-prone areas in residential, industrial or smart grid environments and provide visual insights through interactive dashboards for both users and administrators.
 
-This version focuses on the logic, prediction model, and UI prototype. Full Python implementation is being rebuilt due to system reset, but this repository includes documentation, architecture, screenshots, and demo videos.
+This project demonstrates a conceptual IoT + ML integration, showcasing how predictive analytics can enhance electrical safety. By using parameters such as voltage, temperature, leakage current and wire-health indicators, the system classifies risk into High, Medium, and Safe zones, helping users and administrators take timely preventive action.
 
-ElectroShield predicts hazard risks using simulated parameters such as:
--Voltage
--Temperature
--Leakage current
--Wire-health indicators
+The prototype emphasizes practical ML application, UI visualization and dashboard design. While the full Python implementation is being rebuilt due to a system reset, this repository contains documentation, architecture diagrams, UI mockups, demo videos, and screenshots, providing a comprehensive view of the system’s workflow, logic, and functionality.
+
+Key Highlights:
+
+>Demonstrates ML-based hazard classification using simulated datasets
+>Includes interactive dashboards for user monitoring and admin oversight
+>Provides concept validation for IoT-enabled safety systems
+>Modular design allows future enhancements, including real sensor integration, hardware deployment, and cloud-based analytics
+
+ElectroShield serves as a portfolio-ready project demonstrating data analysis, machine learning application, and dashboard visualization skills, making it suitable to showcase for internship and professional opportunities in data analytics and IoT-related fields.
 
 Outputs:
+
 High-risk / Medium-risk / Safe zone
 
 #This prototype demonstrates:
