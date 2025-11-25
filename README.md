@@ -1,16 +1,10 @@
-ElectroShield-Hazard-Detection-Prototype
+ElectroShield – Electrical Hazard Detection Prototype (Python + ML)
 
-Python + ML prototype that simulates electrical hazard detection using simulated sensor data. UI demo, docs, and video included.
+Project Overview
 
-ElectroShield – Electrical Hazard Detection (Python ML Prototype)
+ElectroShield is a Python-based prototype that simulates electrical hazard detection using machine learning on simulated sensor data. The system predicts hazard-prone areas and provides visual insights through user and admin dashboards, offering a conceptual solution for safer electrical environments.
 
-ElectroShield is a small software prototype I made using Python + basic Machine Learning to simulate how an IoT-based system could detect electrical hazards in advance and alert nearby users.
-
-This version focuses mainly on the logic, prediction model (using simulated sensor values) and a UI preview of how an admin/public dashboard might look.
-
-Note: My original implementation code was lost during a system reset, so I’m rebuilding the full version. This repo contains the documentation, demo video, screenshots and all the architecture.
-
-Overview
+This version focuses on the logic, prediction model, and UI prototype. Full Python implementation is being rebuilt due to system reset, but this repository includes documentation, architecture, screenshots, and demo videos.
 
 ElectroShield predicts hazard risks using simulated parameters such as:
 -Voltage
@@ -19,7 +13,7 @@ ElectroShield predicts hazard risks using simulated parameters such as:
 -Wire-health indicators
 
 Outputs:
-🟥 High-risk 🟨 Medium-risk 🟩 Safe zone
+High-risk / Medium-risk / Safe zone
 
 #This prototype demonstrates:
 *User dashboard (live prediction + past alerts)
@@ -48,6 +42,7 @@ Current repo includes:
 >Documentation
 
 Tech Stack
+
 *Python: pandas, scikit-learn
 *Machine Learning: Basic classification on simulated dataset
 *UI Prototype: HTML, CSS, JavaScript
@@ -128,10 +123,8 @@ Structuring a project for portfolio and internship showcase.
 
 Rebuild Notice
 
-  Original project code was lost during a system reset.
-The repository currently contains the UI demo, architecture, documentation, and concept workflow.
-Full implementation is under reconstruction.
+The original Python implementation was lost during a system reset. This repository currently contains the UI demo, architecture diagrams, documentation, and concept workflow. Full Python implementation is under reconstruction.
 
 Author
 
-Built by DivyaMahibalan as part of an early-stage IoT + ML exploration project.
+Divya Mahibalan – early-stage IoT + ML exploration project
