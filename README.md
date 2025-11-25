@@ -2,7 +2,7 @@ ElectroShield-Hazard-Detection-Prototype
 
 Python + ML prototype that simulates electrical hazard detection using simulated sensor data. UI demo, docs, and video included.
 
-⚡ ElectroShield – Electrical Hazard Detection (Python ML Prototype)
+ElectroShield – Electrical Hazard Detection (Python ML Prototype)
 
 ElectroShield is a small software prototype I made using Python + basic Machine Learning to simulate how an IoT-based system could detect electrical hazards in advance and alert nearby users.
 
@@ -10,8 +10,9 @@ This version focuses mainly on the logic, prediction model (using simulated sens
 
 Note: My original implementation code was lost during a system reset, so I’m rebuilding the full version. This repo contains the documentation, demo video, screenshots and all the architecture.
 
-🎯 Overview
-#ElectroShield predicts hazard risks using simulated parameters such as:
+Overview
+
+ElectroShield predicts hazard risks using simulated parameters such as:
 -Voltage
 -Temperature
 -Leakage current
@@ -26,7 +27,7 @@ Outputs:
 *Mock SMS-style public alerts
 *Hazard history and zone indicators
 
-⭐ Features
+Features
 
 -ML-based risk classification
 -Synthetic dataset generation
@@ -35,7 +36,7 @@ Outputs:
 -Hazard history and logging
 -Visual hazard indicators (map, charts, icons)
 
-📥 Installation
+Installation
 
 The full Python implementation is being rebuilt.
 This section will be updated with setup instructions soon.
@@ -46,7 +47,7 @@ Current repo includes:
 >Screenshots
 >Documentation
 
-🧠 Tech Stack
+Tech Stack
 *Python: pandas, scikit-learn
 *Machine Learning: Basic classification on simulated dataset
 *UI Prototype: HTML, CSS, JavaScript
@@ -54,17 +55,25 @@ Architecture diagrams + flowcharts
 
 <img width="1756" height="794" alt="image" src="https://github.com/user-attachments/assets/8ba4b340-22f9-421e-846e-505a8792f296" />
 
-📽️ Demo Videos
+How the Model Works
 
-▶️ User Module Demo
+>Preprocessed simulated sensor data
+>Trained a simple classification model
+>Output used to visualize hazard levels
+>Mapped to colour-coded risk zones
+This prototype demonstrates concept validation before the hardware phase.
+
+Demo Videos
+
+User Module Demo
 >>Dashboard • Live Predictions • Past Alerts
 https://github.com/user-attachments/assets/ee29b669-88f1-48ea-bf59-0ab0d9ced0b5
 
-▶️ Admin Panel Demo
+Admin Panel Demo
 >>Map View • Hazard Zones
 https://github.com/user-attachments/assets/75391ed5-67cf-449b-9206-988d1960a4be
 
-🖼️ Screenshots
+Screenshots
 
 Dashboard
 
@@ -82,15 +91,18 @@ Admin mock UI
 
 <img width="1820" height="1028" alt="Screenshot 2025-11-24 211226" src="https://github.com/user-attachments/assets/7db08365-e8f3-4ca6-be07-dda89450f748" />
 
+Viewing Outputs
 
-🔧 How the Model Works
->Preprocessed simulated sensor data
->Trained a simple classification model
->Output used to visualize hazard levels
->Mapped to colour-coded risk zones
-This prototype demonstrates concept validation before the hardware phase.
+To view outputs, see the included screenshots and demo video.
+Code can be run locally if Python and required libraries are installed.
 
-🏭 Use Cases
+Results / Insights
+
+Successfully identifies hazard-prone areas with simulated data.
+Provides visual insights for quick decision-making.
+Modular design allows easy addition of new sensors or ML models.
+
+Use Cases
 
 --Home electrical safety systems
 --Industrial hazard monitoring
@@ -99,7 +111,7 @@ This prototype demonstrates concept validation before the hardware phase.
 --Predictive maintenance for electrical units
 --IoT-based early warning systems
 
-🚧 Future Work
+Future Work
 
 >Rebuilding complete Python source code
 >ntegrating real sensors (temperature, voltage, leakage current)
@@ -108,12 +120,18 @@ This prototype demonstrates concept validation before the hardware phase.
 >SMS / app-based hazard alerts
 >Cloud storage + analytics
 
-📌 Rebuild Notice
+Key Learning / Takeaways
 
-⚠️ Original project code was lost during a system reset.
+Practical experience in Python, ML, and data visualization.
+Designing user/admin dashboards for actionable insights.
+Structuring a project for portfolio and internship showcase.
+
+Rebuild Notice
+
+  Original project code was lost during a system reset.
 The repository currently contains the UI demo, architecture, documentation, and concept workflow.
 Full implementation is under reconstruction.
 
-🙌 Author
+Author
 
 Built by DivyaMahibalan as part of an early-stage IoT + ML exploration project.
